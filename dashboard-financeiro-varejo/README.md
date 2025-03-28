@@ -1,5 +1,7 @@
 # Dashboard Financeiro - Varejo
 
+![Dashboard Financeiro](Dashboard%20Financeiro.png)
+
 Este projeto apresenta um painel desenvolvido no Power BI simulando uma empresa do setor varejista. O objetivo é visualizar indicadores financeiros de forma clara e interativa, facilitando a tomada de decisões estratégicas.
 
 ## 📊 Indicadores e elementos incluídos
@@ -29,4 +31,3 @@ Incluído neste diretório: `Dashboard 1 - Empresa ABCD - Movimentação Finance
 ---
 
 📌 *Este projeto faz parte do repositório geral [Projetos Power BI](https://github.com/Rodrigo-RRC/Projetos_PowerBi) de Rodrigo Ribeiro Carvalho.*
-
