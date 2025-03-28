@@ -1,7 +1,5 @@
 ![Dashboard Financeiro](dashboard-financeiro.png)
 
-![Dashboard Financeiro](Dashboard%20Financeiro.png)
-
 Este projeto apresenta um painel desenvolvido no Power BI simulando uma empresa do setor varejista. O objetivo é visualizar indicadores financeiros de forma clara e interativa, facilitando a tomada de decisões estratégicas.
 
 ## 📊 Indicadores e elementos incluídos
