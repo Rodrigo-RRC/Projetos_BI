@@ -1,42 +1,45 @@
 # Projetos Power BI
 
-Este repositório reúne projetos desenvolvidos com Power BI por **Rodrigo Ribeiro Carvalho**, aplicando análise visual, indicadores financeiros e boas práticas de modelagem de dados.
+Este repositório é um portfólio vivo de projetos desenvolvidos com Power BI por **Rodrigo Ribeiro Carvalho**, focado em visualizações claras, indicadores de performance e aplicação prática de dados em setores simulados como varejo, logística e vendas.
 
-Aqui você encontra dashboards criados para setores fictícios com o objetivo de demonstrar habilidades técnicas em:
-
-- Visualização de dados
-- Indicadores de performance (KPIs)
-- Criação de medidas DAX
-- Modelagem de dados
-- Design e organização de relatórios
+Cada subpasta representa um projeto independente, com seu próprio dashboard, dados e descrição técnica.
 
 ---
 
-## Projetos incluídos neste repositório
+## 📁 Projetos incluídos
 
-### 1. Dashboard Financeiro - Setor Varejista
-**Status:** Publicado no YouTube
+### 📊 [Dashboard Financeiro - Setor Varejista](./dashboard-financeiro-varejo)
+Simulação de uma empresa varejista com KPIs de faturamento, lucro, despesas e metas mensais.
 
-> Análise financeira completa simulando uma empresa do setor de varejo. Visualização clara de lucros, despesas, metas e comparativos por período.
+### 🚚 [Dashboard Logística](./dashboard-logistica)
+Visualização de operações logísticas com foco em fluxo de transporte e controle de entregas.
 
-- **Link do vídeo:** [Clique para assistir](https://youtu.be/t6LiWKv2Kqw)
-- **Arquivo .pbix:** [Dashboard 1 - Empresa ABCD - Movimentação Financeira.pbix](./dashboard-financeiro-varejo/Dashboard%201%20-%20Empresa%20ABCD%20-%20Movimenta%C3%A7%C3%A3o%20Financeira.pbix)
-- **Descrição técnica:** Medidas DAX utilizadas, KPIs, organização visual e foco em insights gerenciais
+### 🛍️ [Dashboard Vendas](./dashboard-vendas)
+Análise de vendas por região, produto e desempenho de equipe comercial.
 
 ---
 
-Outros projetos como logística e vendas serão incluídos em breve, cada um com seu próprio diretório, README e arquivos relacionados.
+## 🎯 Sobre este repositório
 
-## Sobre o autor
+Esta organização facilita a navegação entre projetos e demonstra o cuidado com:
 
-Rodrigo Ribeiro Carvalho é profissional em transição de carreira, com sólida experiência em atendimento, negociação e gestão. Atualmente estuda Ciência de Dados e desenvolve projetos com foco em análise prática, organização visual e clareza nos resultados apresentados.
+- Organização visual
+- Boas práticas de modelagem de dados
+- Clareza na comunicação dos insights
+- Uso de medidas DAX no contexto de negócio
 
-- [GitHub](https://github.com/Rodrigo-RRC)
+Todos os dashboards foram produzidos com o objetivo de demonstrar competência técnica aplicada e visão analítica voltada à solução de problemas reais.
+
+---
+
+## 👤 Sobre o autor
+
+**Rodrigo Ribeiro Carvalho**  
+Corretor de imóveis em transição de carreira para a área de dados e tecnologia. Estudante de Ciência de Dados pela UNINTER, com formação complementar em Análise de Dados pelo Google/Coursera e projetos práticos com Power BI, Python e Inteligência Artificial.
+
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-ribeiro-datascience)
 - [Portfólio completo](https://github.com/Rodrigo-RRC)
 
 ---
 
-**Última atualização:** Março de 2025
-
-> "Organização é argumento. Clareza é vantagem competitiva."
+📌 *Última atualização: Março de 2025*
