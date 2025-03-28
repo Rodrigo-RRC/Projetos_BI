@@ -1,4 +1,4 @@
-# Dashboard Financeiro - Varejo
+![Dashboard Financeiro](dashboard-financeiro.png)
 
 ![Dashboard Financeiro](Dashboard%20Financeiro.png)
 
