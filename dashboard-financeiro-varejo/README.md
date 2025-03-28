@@ -1,4 +1,4 @@
-![Dashboard Financeiro](dashboard-financeiro.png)
+# Dashboard Financeiro - Varejo
 
 Este projeto apresenta um painel desenvolvido no Power BI simulando uma empresa do setor varejista. O objetivo é visualizar indicadores financeiros de forma clara e interativa, facilitando a tomada de decisões estratégicas.
 
@@ -25,6 +25,12 @@ Este projeto apresenta um painel desenvolvido no Power BI simulando uma empresa 
 ## 🗂️ Arquivo PBIX
 
 Incluído neste diretório: `Dashboard 1 - Empresa ABCD - Movimentação Financeira.pbix`
+
+---
+
+## 📷 Visualização do Dashboard
+
+![Dashboard Financeiro](dashboard-financeiro.png)
 
 ---
 
