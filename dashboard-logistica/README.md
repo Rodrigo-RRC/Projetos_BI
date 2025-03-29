@@ -15,4 +15,12 @@ Este projeto simula a visualização e acompanhamento de dados logísticos com f
 - Visualizações de linha e barras
 - Modelagem de dados simples
 
-📌 *Este projeto faz parte do repositório [Projetos Power BI](https://github.com/Rodrigo-RRC/Projetos_PowerBi) de Rodrigo Ribeiro Carvalho.*
+  ---
+
+## 📷 Visualização do Dashboard
+
+![Dashboard Financeiro](Logistica.png)
+
+---
+
+📌 *Este projeto faz parte do repositório geral [Projetos Power BI](https://github.com/Rodrigo-RRC/Projetos_PowerBi) de Rodrigo Ribeiro Carvalho.*
