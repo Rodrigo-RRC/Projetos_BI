@@ -19,7 +19,7 @@ Este projeto simula a visualização e acompanhamento de dados logísticos com f
 
 ## 📷 Visualização do Dashboard
 
-![Dashboard Financeiro](Logística.png)
+![Dashboard Financeiro](Logistica.png)
 
 ---
 
