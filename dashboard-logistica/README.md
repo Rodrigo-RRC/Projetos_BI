@@ -9,19 +9,19 @@ Este projeto simula a visualização e acompanhamento de dados logísticos com f
 - Comparativo mensal de movimentações
 - Gráficos de desempenho logístico
 - Painel limpo e direto com foco gerencial
-- 
+ 
 
 ## 🛠️ Ferramentas utilizadas
 
 - Power BI Desktop
 - Visualizações de linha e barras
 - Modelagem de dados simples
-- 
+ 
 
 ## 🎥 Vídeo demonstrativo
 
 - [Assista no YouTube](https://youtu.be/OEmouOXfgsQ)
-- 
+ 
 
   ---
 
