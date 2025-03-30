@@ -15,6 +15,10 @@ Este projeto simula a visualização e acompanhamento de dados logísticos com f
 - Visualizações de linha e barras
 - Modelagem de dados simples
 
+## 🎥 Vídeo demonstrativo
+
+- [Assista no YouTube](https://youtu.be/OEmouOXfgsQ)
+
   ---
 
 ## 📷 Visualização do Dashboard
