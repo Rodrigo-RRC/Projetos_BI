@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Projetos BI</title>
+  <title>📊 Projetos BI</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -97,6 +97,20 @@
     .arrow {
       font-size: 1.2rem;
     }
+
+    .back-button {
+      margin-top: 2rem;
+      font-size: 1rem;
+      padding: 0.8rem 1.5rem;
+      background-color: #ccc;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .back-button:hover {
+      background-color: #bbb;
+    }
   </style>
 </head>
 <body>
@@ -108,12 +122,14 @@
       Projetos BI <span class="arrow">▼</span>
     </div>
     <div class="accordion-body" id="accordion-body">
-      <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/dashboard-financeiro-varejo')">Dashboard Financeiro</button>
-      <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/dashboard-vendas')">Dashboard Vendas</button>
-      <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/dashboard-logistica')">Dashboard Logística</button>
+      <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/Projetos_BI/tree/main/dashboard-financeiro-varejo')">Dashboard Financeiro</button>
+      <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/Projetos_BI/tree/main/dashboard-vendas')">Dashboard Vendas</button>
+      <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/Projetos_BI/tree/main/dashboard-logistica')">Dashboard Logística</button>
       <button class="project-button" onclick="showPopup('https://github.com/Rodrigo-RRC/python_analise_de_dados')">Curso Python: Análise de Dados</button>
     </div>
   </div>
+
+  <button class="back-button" onclick="window.location.href='https://rodrigo-rrc.github.io/'">← Voltar para o início</button>
 
   <div id="popup" class="popup">📊 Esse projeto é show!</div>
 
