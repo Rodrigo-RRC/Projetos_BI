@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://rodrigo-rrc.github.io/Projetos_BI/" target="_blank">
+    <img src="https://img.shields.io/badge/⬅️ Voltar para o índice interativo-blue?style=for-the-badge" alt="Voltar para o índice interativo"/>
+  </a>
+</p>
+
 # Dashboard Financeiro - Varejo
 
 Este projeto apresenta um painel desenvolvido no Power BI simulando uma empresa do setor varejista. O objetivo é visualizar indicadores financeiros de forma clara e interativa, facilitando a tomada de decisões estratégicas.
@@ -36,9 +42,5 @@ Incluído neste diretório: `Dashboard 1 - Empresa ABCD - Movimentação Finance
 
 📌 *Este projeto faz parte do repositório geral [Projetos Power BI](https://github.com/Rodrigo-RRC/Projetos_PowerBi) de Rodrigo Ribeiro Carvalho.*
 
-<p align="center">
-  <a href="https://rodrigo-rrc.github.io/Projetos_BI/" target="_blank">
-    <img src="https://img.shields.io/badge/⬅️ Voltar para o índice interativo-blue?style=for-the-badge" alt="Voltar para o índice interativo"/>
-  </a>
-</p>
+
 
